@@ -1,4 +1,4 @@
-# project-3
+Sentiment Analysis of Tweets to Predict Stock Market
 Aaron, Grant, David, Christiane, Angel.
 Proposal
 
